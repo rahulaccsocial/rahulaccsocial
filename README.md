@@ -37,7 +37,7 @@
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/rahul-hembram-9a0832370/))
+- 🔗 [LinkedIn] ([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/rahul-hembram-9a0832370/))
 - 📧 Email: rahulhembram3261@gmail.com
 
 ---
