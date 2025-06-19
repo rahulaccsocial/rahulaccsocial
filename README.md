@@ -21,11 +21,6 @@
 - 🧠 **AI Chatbot with NLP** - Smart response system with intent detection  
 - 🎮 **Java Cannon Game** - A physics-based projectile game with UI & scoring
 
-## 📈 GitHub Stats
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulhembram3261@gmail.com) 
 
