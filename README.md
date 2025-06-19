@@ -5,7 +5,6 @@
 ## 🚀 About Me
 
 - 🧠 Currently exploring AI/ML and Data Science
-- 🧪 Interning under Edunet-Shell AICTE on **Water Quality Prediction using ML**
 - 💻 I love building intelligent systems, web apps, and data-driven solutions
 - 🎯 Goal-oriented learner with strong interest in Defense Tech & Research
 - 📚 Always curious about what's next in tech — especially AI, Cyber Security, and Robotics
