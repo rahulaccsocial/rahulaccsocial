@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rahul!
 
-🎓 I’m a 4th-semester Computer Science & Engineering student passionate about turning ideas into real-world tech projects.
+🎓 I’m a Computer Science & Engineering student passionate about turning ideas into real-world tech projects.
 
 ## 🚀 About Me
 
